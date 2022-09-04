@@ -4,11 +4,11 @@
 
 ### This project was creating visualizations for a proposal to open a Bike Sharing company in Des Moines.  To complete this I used data from CitiBike in NYC and Tableau to show the final results.  The data was broken down and displayed in various charts to show who uses the bikes, how often and the duration of rentals.  This information was put together in a clear story backed up by the data so an informed decision came be made on how to make this new business successful.
 
-### The view the story in Tableau please click the following link: Bikesharing_Proposal https://public.tableau.com/views/BikesharingDataProposal_16622369617110/BikesharingProposal?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+### The view the story in Tableau please click the following link: [Bikesharing_Proposal](https://public.tableau.com/views/BikesharingDataProposal_16622369617110/BikesharingProposal?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
 
-### The data focused on rental information for August.  The initial https://public.tableau.com/views/Bike_Sharing_Dashboard/NYCCitiBike?:language=en-US&:display_count=n&:origin=viz_share_link created showed there were 2.3 million rides taken, primarily by men with over 1.5 million.  There were just over 1.9 million subscribers and 443 thousand customers.  The majority of trips started and ended in Manhattan.
+### The data focused on rental information for August.  The initial [dashboard](https://public.tableau.com/views/Bike_Sharing_Dashboard/NYCCitiBike?:language=en-US&:display_count=n&:origin=viz_share_link) created showed there were 2.3 million rides taken, primarily by men with over 1.5 million.  There were just over 1.9 million subscribers and 443 thousand customers.  The majority of trips started and ended in Manhattan.
 
 ![Module_Dashboard](https://user-images.githubusercontent.com/106286533/188324577-034fe57b-c862-4710-b582-44c55014ac67.png)
 
